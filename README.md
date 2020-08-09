@@ -16,4 +16,5 @@ The models and results prodoces in this work are available per demend, please re
 
 The original data can be found referenced in the original paper, and more specifically, training data can be found at https://figshare.com/articles/Training_data/5483668/1, and test data can be found at https://figshare.com/articles/Test_data/5483680/1.
 
+![The Rotating Snake Illusion](illusion.jpg)
 
