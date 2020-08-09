@@ -1,7 +1,9 @@
 # Original Paper: PredNet + Optical Flow analysis for the movement prediction of the Rotating Snake Illusion
 
 Credit of the orginal paper and research.
-Please refer to the original paper: Illusory Motion Reproduced by Deep Neural Networks Trained for Prediction, by Watanbe et al. All rights resereved to them.
+Please refer to the original paper: "Illusory Motion Reproduced by Deep Neural Networks Trained for Prediction" by Watanbe et al. 
+
+All rights resereved to them.
 
 # Our Project: Enhancement of PredNet + Optical Flow analysis for the movement prediction of the Rotating Snake Illusion
 
